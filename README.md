@@ -1,0 +1,1 @@
+Facial landmark detection is a computer vision task that predicts key points on a face, such as the eyes, nose, and lips. These points are used as a basis for other computer vision tasks, like head pose estimation, facial gesture detection, and face swapping
